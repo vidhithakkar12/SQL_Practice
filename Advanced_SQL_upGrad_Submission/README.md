@@ -6,11 +6,11 @@
 2. The company wants to identify suppliers who are responsible for the highest revenue. This data would have to be regularly accessed. 
    Create a view which has the following columns.
 
-	SupplierId
+		SupplierId
 
-	ProductId
+		ProductId
 
-	Revenue
+		Revenue
 
 3.Write SQL transactions for the following activities:
 
