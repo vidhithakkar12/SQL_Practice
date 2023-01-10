@@ -1,5 +1,6 @@
 # UpGrad Assignement Questions
 
+
 1. Write an SQL script to create the tables and set constraints based on the given ER diagram. 
    Also define the indexes as specified in the ER Diagram.
 
@@ -37,7 +38,4 @@
 	Total order value
 
 	Average order value
-
-
-
 
